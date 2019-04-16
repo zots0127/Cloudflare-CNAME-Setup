@@ -6,6 +6,7 @@ This project allows [Cloudflare Hosting Partner][1] to provide a panel for custo
 
 [cf.tlo.xyz][4] is the site installed the stable version of this panel. The software is up-to-date and you can trust.
 
+[cdn.antistudy.cn][12]
 ## Installation
 
 If you don’t want to use the preinstalled panel above, you can install this panel on your server. [For more information, please see the Wiki][6].
@@ -75,3 +76,4 @@ This project was based on a [HOSTLOC topic][9].
 [9]:	http://www.hostloc.com/thread-386441-1-1.html
 [10]:	mailto:mtdowling@gmail.com
 [11]:	mailto:mike@mikepultz.com
+[12]: https://cdn.antistudy.cn
